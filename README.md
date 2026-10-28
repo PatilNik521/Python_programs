@@ -21,7 +21,7 @@ This repository contains Python programs and practical implementations of variou
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/sumyaopratar123/Python.git
+   git clone https://github.com/PatilNik521/Python_programs.git
    ```
 
 3. Navigate to the project folder:
@@ -57,8 +57,6 @@ This repository contains Python programs and practical implementations of variou
 ## Academic Purpose
 This repository is maintained for the academic practical work of **Advanced Programming Concepts (APC) using Python**.
 
-## Author
-**Sumit Ganesh Ade**
 
 ---
 
